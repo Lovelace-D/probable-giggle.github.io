@@ -1,0 +1,74 @@
+image {
+  display: block;
+}	
+#tribute-info {
+	font-weight: bold;
+}	
+
+#hdr-caption {
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 15;
+}
+#image {
+  height: auto;
+  justify-content: center;
+  max-width: 98%;
+  height: auto;
+  display: block;
+  margin-left: 12px;
+  /*margin-right: 25px;*/
+  /*padding-right: 10px;*/
+	
+}
+#bold-minor {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#bold {
+	font-weight: bold;
+}
+body {
+	background-image: url("file:///home/chronos/u-9903abd9844e13df08b9a81e2942e7e733ad0394/MyFiles/My%20Computer/bckgrnd.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	color: #ffffff;
+	margin: auto;
+}
+#header {
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 1px;
+}
+#article-content {
+	width: 65%;	
+	text-align: justify;
+	margin-left: 150px;
+}
+#img-caption {
+	font-family: "lucida handwriting", /*"courier"*/;
+	font-style: italic;
+	font-size: 12;
+}
+#content {
+	text-align: justify;
+	margin-left: 17px;
+	width: 96%
+} 	
+#data {
+	margin: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	margin-left: 17px;
+}
+#italic {
+	font-style: italic;
+}
+#image-2 {
+	float: right;	
+}
+
+
+
